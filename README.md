@@ -22,7 +22,7 @@ Hi 👋 My name is Rithik
 
 ### Badges
 
-[![@rithik3675's Holopin board](https://holopin.me/rithik3675)](https://holopin.io/@rithik3675)
+[![@rithik3675's Holopin board](https://holopin.me/rithik3675)](https://holopin.io/@rithik3675) 
 
 <b>My GitHub Stats</b>
 
